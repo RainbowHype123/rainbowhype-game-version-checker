@@ -1,0 +1,7 @@
+1.0.1.0:
+- Finished the references for all the non-Windows runtimes (including Haxe, despite not being released yet). 
+- Modified the Get Object's "Domain List" property for the Android runtime. 
+- Very minor change in one of the existing comments. 
+
+1.0.0.0:
+- Initial release of the MFA. 
