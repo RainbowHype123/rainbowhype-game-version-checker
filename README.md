@@ -1,2 +1,2 @@
 # rainbowhype-game-version-checker
-Used for checking what's the latest version of games I am involved in. -RainbowHype
+Used for update checkers in games that I'm involved in. -RainbowHype
